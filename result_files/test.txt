@@ -1,0 +1,74 @@
+@& BanksStatements.net
+
+ 
+
+ 
+
+ 
+
+Thank you for being a Varo Bank customer. Please note, Varo to Varo and ATM
+Withdrawals may display an incomplete transaction description in your monthly statement.
+
+Va ro Please refer to the App for the full transaction description.
+
+ 
+
+ 
+
+Varo Bank Account Statement
+04/01/2021 — 04/30/2021
+
+Mr John Doe
+2 Post Alley,
+Seattle, WA 98101
+
+Summary for Bank Account 123456789
+Beginning Balance on 04/01/2021
+
+Deposits and other credits
+
+Withdrawals and other debits
+
+Fees
+
+Ending Balance on 04/30/2021
+
+Account Activity
+Date Description
+04/05/2021 Debit Card (Purchase)
+
+Kroger 225 ct Port charlotte FLUS,
+
+4112021 Debit Card (Purchase)
+Walmart HWYY 45 Port charlotte FLUS
+
+04/13/2021 Payment
+Jordan Lowe
+oa/1912021 Debit Card (Purchase)
+
+Kroger 225 ct Port Charlotte FLUS
+
+04/22/2021 Debit Card (Purchase)
+Walmart HWY 45 Port charlotte FLUS.
+
+Page 1 of 2
+
+Customer Support
+
+1-877-377-8276
+support@varomoney.com
+Routing: 123456789
+
+Amount
+$35725.35
+$2000.00
+$4250.00
+$250.00
+$33475.35
+Amount Balance
+$1500.00 24225 :35
+3600.00 $33725.35
+$2000.00 $35725.35
+$1000.00 $34725.25
+$1050.00 $33725.25
+

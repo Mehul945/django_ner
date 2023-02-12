@@ -1,0 +1,44 @@
+<!-- templates/404.html -->
+
+<html>
+<head>
+  <title>Page Not Found</title>
+  <style>
+    /* Add your desired CSS styles for the 404 page here */
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    .error-message {
+      padding: 50px;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      margin: 50px auto;
+      width: 500px;
+    }
+    h1 {
+      font-size: 40px;
+      color: #333;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 20px;
+      color: #666;
+      margin-bottom: 20px;
+    }
+    a {
+      font-size: 18px;
+      color: #069;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-message">
+    <h1>404</h1>
+    <h2>Page not found</h2>
+    <p>Sorry, the page you were looking for could not be found.</p>
+    <p><a href="{% url 'home' %}">Go back to the home page</a></p>
+  </div>
+</body>
+</html>
